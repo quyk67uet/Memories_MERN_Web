@@ -1,4 +1,4 @@
-import { Container, Grow, Grid } from '@material-ui/core';
+import { Container, Grow, Grid } from '@mui/material';
 import { getPosts } from '../../actions/posts';
 import Posts from "../Posts/Posts";
 import Form from "../Form/Form";
