@@ -41,6 +41,7 @@ Here are some screenshots of the project:
    cd server
    npm install
 3. **Run**:
+   ```bash  
    cd client
    npm start
 
