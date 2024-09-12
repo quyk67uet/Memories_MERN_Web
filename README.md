@@ -31,7 +31,7 @@ Here are some screenshots of the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/memories.git
+   git clone https://github.com/quyk67uet/Memories_MERN_Web.git
    cd memories
 2. **Install package.json**:
    ```bash
